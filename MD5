@@ -1,0 +1,10 @@
+b5ed42ec2fc61cdf67e95fc4d5e5d23c *DESCRIPTION
+7be3836dd0441d238563ffdc37c93d9e *NAMESPACE
+b4460ccf3b10d7aa6e0dc86185588741 *R/hints.R
+a7982b90f82857e34a253df2be42d7c1 *inst/doc/Rnews.sty
+607eee2fdaeb8ff782b42f02f9a71ad6 *inst/doc/Sweave.sty
+b89dc90c5d2961311fa4a9f2aeb75470 *inst/doc/hints.Rnw
+8ff383d5e538476ff8845d8f6326bc12 *inst/doc/hints.pdf
+0a3cdbcce2a1272339aba5729159b8cf *man/hints.Rd
+5cd42bf4de5b9966f8f919102b68da55 *man/print.hints.Rd
+e4e619570c88cfee8effb393ac5c091a *man/xtable.hints.Rd
